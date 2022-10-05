@@ -1,0 +1,40 @@
+.tituloPrincipal { color: beige;}
+
+
+.intro { color: blue;}
+
+
+#descripcion{ color: brown;}
+
+.intro  {
+    margin-top: 50px; 
+    margin-right: 100px;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    
+    ;
+}
+.formato01{ color: rgb(14, 14, 99);
+    font-family: 'Kanit', sans-serif;
+    font-size: 25px;
+    background-color: blue;
+
+}
+
+#descripcion {
+    border-top: 5px solid black;
+   border-right: dashed 8px coral;
+   border-bottom: 10px dotted green;
+   border-left: 10px double yellow;
+   padding-top: 30px;
+   padding-right: 50px;
+   padding-bottom: 60px;
+   padding-left: 10px;
+ }
+img {
+    width: 400px;
+    height: 200px;
+}
+.cocina {
+    text-align: start;
+}
